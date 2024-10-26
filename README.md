@@ -10,9 +10,11 @@ However, you should first understand how LLMs work before delving into the syste
 
 - Milestone #1: Understanding How LLM Works.
 
-## Record
+## Notes
 
-See record directory.
+My personal notes.
+
+- Introduction to LLM.
 
 ## Resource
 
@@ -21,3 +23,6 @@ See record directory.
 - Large Language Models: Methods and Applications / Fall 2024. [Home page](https://cmu-llms.org/)
 
 - Large Language Model Systems, Spring 2024. [Home page](https://llmsystem.github.io/llmsystem2024spring/)
+
+- Introduction to Generative AI 2024 Spring. [Home page](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php) , [Youtube](https://www.youtube.com/watch?v=AVIKFXLCPY8)
+
